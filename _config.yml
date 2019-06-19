@@ -7,3 +7,7 @@ url: "https://www.sabragesoftware.com"
 markdown: kramdown
 
 google_analytics: UA-27574653-1
+
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
