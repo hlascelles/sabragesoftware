@@ -36,7 +36,6 @@ html {
 }
 
 body {
-	background: #A9A9A9;
 	color: #444;
 	font: normal 75% sans-serif;
 	line-height: 1.5;
@@ -410,12 +409,6 @@ div.comment-list {
    Layout
 ------------------------------------------------------------------- */
 
-/* Common */
-.center-wrapper {
-	width: 960px;
-	margin: 0 auto;
-}
-
 /* Header */
 
 #header-wrapper {background: #2F2F2F url('img/header.gif') repeat-x left top;}
@@ -510,8 +503,6 @@ ul.tabbed a {text-decoration: none;}
 /* Content */
 
 .content {font-size: 1.1em;}
-#content-wrapper {background: #F6F6F6 url('img/content-wrapper.gif') repeat-y center top;}
-.content#content-two-columns {background: url('img/content-two-columns.gif') repeat-y left top;}
 
 
 /* Main */
@@ -539,7 +530,7 @@ ul.tabbed a {text-decoration: none;}
 /* Footer */
 
 #footer-wrapper {
-	background: url('img/footer-wrapper.gif') no-repeat center bottom;
+	background-color: #A9A9A9;
 	border-top: 1px solid #999;
 	padding-bottom: 20px;
 }
@@ -561,8 +552,9 @@ ul.tabbed a {text-decoration: none;}
 /* Bottom */
 
 #bottom {
+	background-color: #A9A9A9;
 	color: #666;
-	padding: 0 6px 12px;
+	padding: 0 6px 12px 12px;
 	margin-top: -6px;
 }
 #bottom a {
