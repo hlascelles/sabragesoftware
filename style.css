@@ -1,4 +1,4 @@
-/*  
+/*
 Template name: Freshmade Software
 Template URI: http://templates.arcsin.se/freshmade-software-website-template/
 Release date: 2009-06-21
@@ -12,7 +12,7 @@ http://templates.arcsin.se/license/
 */
 
 
-/* 
+/*
    Reset
 ------------------------------------------------------------------- */
 
@@ -26,8 +26,8 @@ a img {border: none;}
 :focus {outline: 0;}
 
 
-/* 
-   General 
+/*
+   General
 ------------------------------------------------------------------- */
 
 html {
@@ -43,8 +43,8 @@ body {
 }
 
 
-/* 
-   Typography 
+/*
+   Typography
 ------------------------------------------------------------------- */
 
 /* Headings */
@@ -180,8 +180,8 @@ div.more {padding-top: 6px;}
 .more a:hover, a.more:hover {color: #002;}
 
 
-/* 
-   Forms 
+/*
+   Forms
 ------------------------------------------------------------------- */
 
 label {font-weight: bold; cursor: pointer;}
@@ -206,8 +206,8 @@ input.button:active {border-style: inset;}
 .form-error {border-color: #F00;}
 
 
-/* 
-   Alignment 
+/*
+   Alignment
 ------------------------------------------------------------------- */
 
 /* General */
@@ -230,7 +230,7 @@ img.alignleft, img.left {margin: 0 1.5em 1em 0;}
 img.alignright, img.right {margin: 0 0 1em 1.5em;}
 
 
-/* Floats */   
+/* Floats */
 
 .left,.alignleft {float: left;}
 .right,.alignright {float: right;}
@@ -239,7 +239,7 @@ img.alignright, img.right {margin: 0 0 1em 1.5em;}
 .clearer {
 	display: block;
 	font-size: 0;
-	line-height: 0;	
+	line-height: 0;
 }
 
 
@@ -249,8 +249,8 @@ img.alignright, img.right {margin: 0 0 1em 1.5em;}
 
 
 
-/* 
-   Separators 
+/*
+   Separators
 ------------------------------------------------------------------- */
 
 .content-separator, .archive-separator {
@@ -268,8 +268,7 @@ img.alignright, img.right {margin: 0 0 1em 1.5em;}
 .separator-vertical {background: url('img/separator-vertical.gif') repeat-y center top;}
 
 
-/* 
-   Posts 
+/* Posts
 ------------------------------------------------------------------- */
 
 .post {margin-bottom: 24px;}
@@ -336,15 +335,15 @@ ul.nice-list span {color: #666;}
 	padding: 0;
 }
 .archive-post-day {font: normal 1.6em Georgia,serif;}
-.archive-post .post-date,.archive-post-title {padding-top: 3px;} 
+.archive-post .post-date,.archive-post-title {padding-top: 3px;}
 
 
-/* 
+/*
    Thumbnails
 ------------------------------------------------------------------- */
 
 .thumbnails {margin: 0 0 1em -8px;}
-.thumbnails a.thumb {	
+.thumbnails a.thumb {
 	background: #DAD6D0;
 	display: block;
 	float: left;
@@ -355,7 +354,7 @@ ul.nice-list span {color: #666;}
 .thumbnails .thumb img {display: block;}
 
 
-/* 
+/*
    Box
 ------------------------------------------------------------------- */
 
@@ -367,7 +366,7 @@ ul.nice-list span {color: #666;}
 }
 .box a {color: #951;}
 .box a:hover {color: #310;}
-.box-title {	
+.box-title {
 	color: #665;
 	font: normal 1.6em sans-serif;
 }
@@ -375,12 +374,12 @@ ul.nice-list span {color: #666;}
 
 
 
-/* 
-   Comments 
+/*
+   Comments
 ------------------------------------------------------------------- */
 
 div.comment-list {
-	border-top: 1px solid #EEE; 
+	border-top: 1px solid #EEE;
 	margin: 1em 0 2em;
 }
 
@@ -407,8 +406,8 @@ div.comment-list {
 }
 
 
-/* 
-   Layout 
+/*
+   Layout
 ------------------------------------------------------------------- */
 
 /* Common */
@@ -594,7 +593,7 @@ ul.tabbed a {text-decoration: none;}
 #featured h3 span {color: #43B16C;}
 
 
-/* 
+/*
    Misc overriding classes
 ------------------------------------------------------------------- */
 
@@ -628,12 +627,12 @@ ul.tabbed a {text-decoration: none;}
 
 .sabrageitemright {
     display: block;float: right;margin: 0 0 0 50px}
-	
+
 .sabrageitemleft {
     display: block;margin: 0 0 0 0;}
 
 .sabrageindentqrcodepadding {
     margin: 8px 8px 8px 8px;}
-	
+
 
 
